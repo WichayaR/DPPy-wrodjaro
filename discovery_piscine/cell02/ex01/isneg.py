@@ -5,4 +5,4 @@ if num < 0:
 elif num > 0:
     print("This number is positive")
 else:
-    print("This number is zero")
+    print("This number is both positive and negative.")
