@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 print("What you gotta say?: ")
 user_input = input()
 

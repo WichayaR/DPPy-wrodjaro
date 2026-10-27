@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 #while loop
 print("Enter a number")
 num = int(input())

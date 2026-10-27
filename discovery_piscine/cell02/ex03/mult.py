@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 print("Enter the first number: ")
 first_num = int(input())
 
