@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-print("Enter a number less than 25")
-numeric = int(input())
+# print("Enter a number less than 25")
+# numeric = int(input())
+numeric = int(input("Enter a number less than 25: \n"))
 
 if numeric > 25:
-    print("Error")
+    print("Error") 
 else:
     while numeric <= 25:
         print(f"Inside the loop, my variable is {numeric}")
